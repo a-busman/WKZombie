@@ -7,7 +7,7 @@ let package = Package(
         .library(name: "WKZombie", targets:["WKZombie"])
     ],
     dependencies: [
-        .package(url: "https://github.com/mkoehnke/hpple.git", from: "0.2.2")
+        .package(url: "https://github.com/a-busman/hpple.git", from: "0.2.2")
     ],
     targets: [
         .target(name: "WKZombie"),
