@@ -9,7 +9,7 @@ Pod::Spec.new do |s|
                    In addition, it can be used to run automated tests, take snapshots or manipulate websites using Javascript.
                    DESC
 
-  s.homepage     = "https://github.com/mkoehnke/WKZombie"
+  s.homepage     = "https://github.com/a-busman/WKZombie"
 
   s.license      = { :type => 'MIT', :file => 'LICENSE' }
 
